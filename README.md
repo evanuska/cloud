@@ -2,7 +2,8 @@
 ### setting up cloud 
 1. wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh 
 2. Download
-3. 
+3. bash anaconda3-5.2.0-Linux-x86-64.sh
+4. source .bashrc
 
 
 
